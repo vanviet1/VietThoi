@@ -1,0 +1,437 @@
+{
+  "usersAdmin": [
+    {
+      "fullname": "Minh Tâm",
+      "email": "minhtam@gmail.com",
+      "password": "admin123",
+      "birthday": "2022-07-05",
+      "address": "đà nẵng",
+      "phone": "0909090909",
+      "avatar": "https://png.pngtree.com/png-clipart/20200225/original/pngtree-beautiful-admin-roles-line-vector-icon-png-image_5256998.jpg",
+      "gender": "female",
+      "role": "admin",
+      "id": 909289,
+      "isUserAdmin": true
+    },
+    {
+      "id": 975782,
+      "fullname": "thới văn việt",
+      "email": "vanviet@gmail.com",
+      "password": "admin123",
+      "birthday": "2022-07-12",
+      "address": "đà nẵng",
+      "phone": "12121212",
+      "avatar": "https://png.pngtree.com/png-clipart/20200225/original/pngtree-beautiful-admin-roles-line-vector-icon-png-image_5256998.jpg",
+      "gender": "male",
+      "role": "employee",
+      "isUserAdmin": true
+    }
+  ],
+  "usersUI": [
+    {
+      "fullname": "Nhân viên 2",
+      "email": "nhanvien2@gmail.com",
+      "password": "admin123",
+      "address": "Đà Nẵng",
+      "birthday": "29-07-2002",
+      "phone": "0702474758",
+      "avatar": "",
+      "gender": "male",
+      "isUser": true,
+      "id": 20022
+    },
+    {
+      "fullname": "ewww",
+      "email": "vanviet@gmail.com",
+      "password": "admin123A",
+      "prefix": "84",
+      "phone": "1231222222",
+      "id": 86215801,
+      "userUiId": 96186129,
+      "createAt": "03:12:48, 25/10/2022",
+      "isUser": true,
+      "avatar": "https://sm.mashable.com/mashable_in/photo/default/this-one-piece-fans-femme-luffy-cosplay-is-gomu-gomu-no-a-mi_gqe7.jpg"
+    },
+    {
+      "fullname": "vit",
+      "email": "convit@gmail.com",
+      "password": "Vanviet1",
+      "prefix": "84",
+      "phone": "34412343432",
+      "id": 81001470,
+      "userUiId": 93539262,
+      "createAt": "16:59:00, 26/10/2022",
+      "isUser": true,
+      "avatar": "https://sm.mashable.com/mashable_in/photo/default/this-one-piece-fans-femme-luffy-cosplay-is-gomu-gomu-no-a-mi_gqe7.jpg"
+    },
+    {
+      "fullname": "mèo",
+      "email": "meottt@gmail.com",
+      "password": "Vanviet1",
+      "prefix": "84",
+      "phone": "1231231232",
+      "id": 82549835,
+      "userUiId": 90788782,
+      "createAt": "00:02:41, 28/10/2022",
+      "isUser": true,
+      "avatar": "https://sm.mashable.com/mashable_in/photo/default/this-one-piece-fans-femme-luffy-cosplay-is-gomu-gomu-no-a-mi_gqe7.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Cà phê",
+      "description": "Các loại cà phê",
+      "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/13.jpg?v=1608878981920",
+      "id": 30323
+    },
+    {
+      "categoryName": "Ăn Vặt",
+      "description": "Các loại đồ ăn vặt",
+      "url": "https://dacsanbakien.com/wp-content/uploads/2021/01/ca-vien-chien-san.jpg",
+      "id": 30081
+    },
+    {
+      "categoryName": "Nước ép",
+      "description": "Các loại nước ép",
+      "url": "https://ttol.vietnamnetjsc.vn//2017/01/24/10/23/ai-hay-uong-nuoc-ep-trai-cay-nhat-dinh-phai-biet-nhung-dieu-nay_2.jpg",
+      "id": 30133
+    },
+    {
+      "categoryName": "Nước giải khát",
+      "description": "Các loại nước giải khát\n",
+      "url": "https://cf.shopee.vn/file/8249aaebb83ef9e6977362702d9f9450",
+      "id": 30084
+    }
+  ],
+  "products": [
+    {
+      "productName": "ca feee chon",
+      "description": "cà phê",
+      "priceNew": "10000",
+      "priceOld": "15000",
+      "category": "Cà phê",
+      "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/13.jpg?v=1608878981920",
+      "id": 3032312
+    },
+    {
+      "productName": "ca feee",
+      "description": "123",
+      "priceNew": "10000",
+      "category": "Nước giải khát",
+      "url": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2021/5/26/913299/Ngan-Ha25.jpg",
+      "id": 90171184
+    },
+    {
+      "productName": "ssx",
+      "description": "CAPPUCCINO\n",
+      "priceNew": "35000",
+      "category": "Ăn Vặt",
+      "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/15.jpg?v=1608879124267",
+      "id": 90421317
+    },
+    {
+      "productName": "ddG",
+      "description": "122",
+      "priceNew": "35000",
+      "category": "Nước ép",
+      "url": "https://gamek.mediacdn.vn/133514250583805952/2021/5/13/kc2-162088389053473358010.jpg",
+      "id": 90851171
+    },
+    {
+      "productName": "ca feee",
+      "description": "1233",
+      "priceNew": "35000",
+      "priceOld": "11111",
+      "category": "Nước ép",
+      "url": "https://vietwebgroup.vn/admin/uploads/nuoc-la-gitim-hieu-ve-nuoc-la-gi.jpg",
+      "id": 90650800,
+      "productId": 1101113,
+      "createAt": "02:02:44, 28/10/2022"
+    }
+  ],
+  "orders": [
+    {
+      "fullname": "vui",
+      "phoneNumber": "0909090912",
+      "status": "Giao thành công",
+      "cartProducts": [
+        {
+          "productName": "TRÀ CHANH",
+          "description": "TRÀ CHANH",
+          "priceNew": "40000",
+          "category": "Các loại đồ ăn vặt",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/10-a1db977e-32af-492b-8ae1-c3638939b4a7.jpg?v=1608871257547",
+          "id": 90694130,
+          "productId": 1153775,
+          "createAt": "7/20/2022, 11:53:05 PM",
+          "quantity": 1
+        },
+        {
+          "productName": "TRÀ XOÀI",
+          "description": "TRÀ XOÀI",
+          "priceNew": "45000",
+          "category": "Các loại đồ ăn vặt",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/8.jpg?v=1608871359567",
+          "id": 90421582,
+          "productId": 1153087,
+          "createAt": "7/20/2022, 11:52:24 PM",
+          "quantity": 3
+        },
+        {
+          "productName": "TRÀ CAM ĐÀO",
+          "description": "TRÀ CAM ĐÀO",
+          "priceNew": "35000",
+          "category": "Các loại đồ ăn vặt",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/11-31738fc1-8b94-4d06-824d-63222f59e4e0.jpg?v=1608871602993",
+          "id": 90722917,
+          "productId": 1118199,
+          "createAt": "7/25/2022, 1:55:05 AM",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 210000,
+      "createAt": "7/28/2022, 1:31:14 AM"
+    },
+    {
+      "fullname": "vit",
+      "email": "convit@gmail.com",
+      "address": "đà nẵng",
+      "phoneNumber": "3441234343",
+      "status": "Đang vận chuyển",
+      "cartProducts": [
+        {
+          "productName": "ca feee chon",
+          "description": "cà phê",
+          "priceNew": "10000",
+          "priceOld": "15000",
+          "category": "Cà phê",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/13.jpg?v=1608878981920",
+          "id": 3032312,
+          "size": "S",
+          "quantity": 2
+        },
+        {
+          "productName": "ca feee chon",
+          "description": "cà phê",
+          "priceNew": "10000",
+          "priceOld": "15000",
+          "category": "Cà phê",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/13.jpg?v=1608878981920",
+          "id": 3032312,
+          "quantity": 1
+        },
+        {
+          "productName": "ssx",
+          "description": "CAPPUCCINO\n",
+          "priceNew": "35000",
+          "category": "Ăn Vặt",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/15.jpg?v=1608879124267",
+          "id": 90421317,
+          "quantity": 3
+        },
+        {
+          "productName": "ssx",
+          "description": "CAPPUCCINO\n",
+          "priceNew": "35000",
+          "category": "Ăn Vặt",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/15.jpg?v=1608879124267",
+          "id": 90421317,
+          "size": "",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 170000,
+      "id": 907097638
+    },
+    {
+      "fullname": "vit",
+      "email": "convit@gmail.com",
+      "address": "đà nẵng",
+      "phoneNumber": "3441234343",
+      "status": "Đang chuẩn bị",
+      "cartProducts": [
+        {
+          "productName": "ca feee chon",
+          "description": "cà phê",
+          "priceNew": "10000",
+          "priceOld": "15000",
+          "category": "Cà phê",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/13.jpg?v=1608878981920",
+          "id": 3032312,
+          "size": "S",
+          "quantity": 2
+        },
+        {
+          "productName": "ca feee chon",
+          "description": "cà phê",
+          "priceNew": "10000",
+          "priceOld": "15000",
+          "category": "Cà phê",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/13.jpg?v=1608878981920",
+          "id": 3032312,
+          "quantity": 1
+        },
+        {
+          "productName": "ssx",
+          "description": "CAPPUCCINO\n",
+          "priceNew": "35000",
+          "category": "Ăn Vặt",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/15.jpg?v=1608879124267",
+          "id": 90421317,
+          "quantity": 3
+        }
+      ],
+      "totalPrice": 135000,
+      "id": 900783492
+    },
+    {
+      "fullname": "mèo",
+      "email": "meottt@gmail.com",
+      "address": "q",
+      "phoneNumber": "1231231232",
+      "cartProducts": [
+        {
+          "id": 3032312,
+          "productName": "ca feee chon",
+          "description": "cà phê",
+          "priceNew": "10000",
+          "priceOld": "15000",
+          "category": "Cà phê",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/13.jpg?v=1608878981920",
+          "size": "S",
+          "quantity": 4
+        }
+      ],
+      "totalPrice": 40000,
+      "userId": 90788782,
+      "createAt": "02:07:53, 28/10/2022",
+      "id": 907049085,
+      "orderId": 1104854495,
+      "status": "Chờ xác nhận"
+    },
+    {
+      "fullname": "mèo",
+      "email": "meottt@gmail.com",
+      "address": "q",
+      "phoneNumber": "1231231232",
+      "cartProducts": [
+        {
+          "id": 3032312,
+          "productName": "ca feee chon",
+          "description": "cà phê",
+          "priceNew": "10000",
+          "priceOld": "15000",
+          "category": "Cà phê",
+          "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/13.jpg?v=1608878981920",
+          "size": "S",
+          "quantity": 4
+        }
+      ],
+      "totalPrice": 40000,
+      "userId": 90788782,
+      "createAt": "02:07:54, 28/10/2022",
+      "id": 902442312,
+      "orderId": 1104575034,
+      "status": "Chờ xác nhận"
+    }
+  ],
+  "banners": [
+    {
+      "title": "Nhận ưu đãi tuyệt vời",
+      "description": "Đến với The Coffee House, Thưởng thức ly trà, ly cà phê... các bạn sẽ được nhận các ưu đãi tuyệt vời dành cho những khách hàng thân thiết...",
+      "url": "https://doncoffee.vn/wp-content/uploads/2017/10/web-banner-1.png",
+      "id": 40075
+    },
+    {
+      "title": "Đến với The Coffee House",
+      "description": "Để thưởng thức những ly cà phê, các loại nước uống hương vị trái cây ngon tuyệt, cùng những ly trà sữa tươi mát. Giúp cho bạn có những khoảng thời gian thử giản tuyệt vơi, thoải mái với không gian tươi mát...",
+      "url": "https://caffeshop.vn/public/files/slide/6-16194257951619425795.jpeg",
+      "id": 40406
+    },
+    {
+      "title": "Không gian tươi mát của The Coffee House",
+      "description": "Đến với The Coffee House, các bạn như lạc vào không giang của thiên nhiên, một không gian tươi mát hòa vào môi trường, thưởng thức những ly cà phê tuyệt hảo...",
+      "url": "https://25groups.com/images/slideshow/bannercf.jpg",
+      "id": 40129
+    }
+  ],
+  "sliders": [
+    {
+      "title": "hình ảnh 2",
+      "url": "https://images.unsplash.com/photo-1657895116602-9f49a1eef455?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "id": 991805,
+      "createAt": "7/15/2022, 10:50:25 PM"
+    },
+    {
+      "title": "hình ảnh 3",
+      "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/themes/844269/assets/picture_2.jpg?1646286260817",
+      "id": 992746,
+      "createAt": "7/16/2022, 3:49:48 PM"
+    },
+    {
+      "title": "hinh ảnh 5",
+      "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/themes/844269/assets/picture_3.jpg?1646286260817",
+      "id": 994893,
+      "createAt": "7/16/2022, 3:50:10 PM"
+    },
+    {
+      "title": "hình ảnh 6",
+      "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/themes/844269/assets/picture_4.jpg?1646286260817",
+      "id": 991714,
+      "createAt": "7/16/2022, 3:50:31 PM"
+    },
+    {
+      "title": "hình ảnh 4",
+      "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/themes/844269/assets/picture_5.jpg?1646286260817",
+      "id": 992300,
+      "createAt": "7/16/2022, 3:50:52 PM"
+    },
+    {
+      "title": "hình anh 7",
+      "url": "https://bizweb.dktcdn.net/100/415/010/articles/untitled-1.jpg?v=1608884901087",
+      "id": 992018,
+      "createAt": "7/16/2022, 3:51:24 PM"
+    }
+  ],
+  "commentUsers": [
+    {
+      "description": "uống thì ngon mà ít quá thêm đi",
+      "rate": 5,
+      "product": {
+        "id": 3032312,
+        "productName": "ca feee chon",
+        "description": "cà phê",
+        "priceNew": "10000",
+        "priceOld": "15000",
+        "category": "Cà phê",
+        "url": "https://bizweb.dktcdn.net/thumb/large/100/415/010/products/13.jpg?v=1608878981920"
+      },
+      "commentId": 1102817094,
+      "createAt": "17:03:57, 26/10/2022",
+      "userName": "vit",
+      "avatar": "https://sm.mashable.com/mashable_in/photo/default/this-one-piece-fans-femme-luffy-cosplay-is-gomu-gomu-no-a-mi_gqe7.jpg",
+      "createAt2": "26/10/2022",
+      "id": 1
+    },
+    {
+      "description": "nước lọc bán tận 100m ",
+      "rate": 5,
+      "product": {
+        "id": 90316119,
+        "productId": 1176065,
+        "productName": "nước chống nhục",
+        "description": "dành cho bọn hay bị nhục",
+        "priceNew": "100000000",
+        "priceOld": "11111",
+        "category": "Nước giải khát",
+        "url": "https://vietwebgroup.vn/admin/uploads/nuoc-la-gitim-hieu-ve-nuoc-la-gi.jpg"
+      },
+      "commentId": 1105813118,
+      "createAt": "17:06:19, 26/10/2022",
+      "userName": "vit",
+      "avatar": "https://sm.mashable.com/mashable_in/photo/default/this-one-piece-fans-femme-luffy-cosplay-is-gomu-gomu-no-a-mi_gqe7.jpg",
+      "createAt2": "26/10/2022",
+      "id": 2
+    }
+  ]
+}
